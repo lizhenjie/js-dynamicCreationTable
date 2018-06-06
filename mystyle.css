@@ -1,0 +1,14 @@
+@charset "utf-8";
+body {
+	overflow-x: hidden;
+	font-family: "微软雅黑" !important;
+	font-size: 14px !important;
+	min-width:1000px;
+}
+html{
+	min-width:1000px;
+}
+.table-right-border > thead > tr > th, .table-right-border > thead > tr > td{background-color: #ededed;border:1px solid rgb(204, 207, 210) !important}
+.text-left th{text-align: left;font-weight: normal;}
+
+
